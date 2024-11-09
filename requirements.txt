@@ -1,8 +1,0 @@
-numpy
-matplotlib
-torch
-fulu
-pandas
-sklearn
-joblib
-torchvision
