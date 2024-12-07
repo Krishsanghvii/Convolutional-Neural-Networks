@@ -1,7 +1,8 @@
-Convolutional Neural Networks
+**Convolutional Neural Networks**
+
 This repository contains a series of Jupyter notebooks that focus on data loading, preprocessing, feature extraction, and model training/testing for a machine learning pipeline. It uses Convolutional Neural Networks (CNN) and other classifiers to analyze and classify data, such as light curves for supernova classification.
 
-Repository Contents
+**Repository Contents**
 1_load_data21.ipynb: Handles data loading.
 2_preprocess_data.ipynb: Preprocesses raw data.
 Augment.ipynb: Augments the dataset to enhance training.
@@ -15,7 +16,7 @@ Training.ipynb and Testing.ipynb: General model training and testing notebooks.
 Requirements
 The notebooks are implemented in Jupyter Notebook format, primarily utilizing Python libraries for data processing, feature extraction, and model training.
 
-Usage
+**Usage**
 Clone the repository:
 bash
 Copy code
